@@ -1,0 +1,3 @@
+import animal
+
+print 'hhh'

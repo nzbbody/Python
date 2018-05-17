@@ -1,0 +1,13 @@
+def GetPowerSet(i,aTuple,oneEle):
+    if i >= len(aTuple):
+        print oneEle
+    else:
+        oneEle+=str(aTuple[i])
+        GetPowerSet(i+1,aTuple,oneEle)
+
+        oneEle=oneEle[0:len(oneEle)-1]
+        GetPowerSet(i+1,aTuple,oneEle)
+
+aTuple=(1,2,3)
+oneEle=''
+GetPowerSet(0,aTuple,oneEle)

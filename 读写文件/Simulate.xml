@@ -1,0 +1,1002 @@
+<Simulators>
+	<Simulator id="0">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37777" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="1">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37778" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="2">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37779" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="3">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37780" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="4">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37781" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="5">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37782" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="6">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37783" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="7">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37784" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="8">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37785" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="9">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37786" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="10">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37787" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="11">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37788" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="12">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37789" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="13">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37790" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="14">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37791" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="15">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37792" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="16">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37793" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="17">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37794" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="18">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37795" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="19">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37796" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="20">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37797" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="21">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37798" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="22">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37799" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="23">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37800" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="24">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37801" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="25">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37802" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="26">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37803" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="27">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37804" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="28">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37805" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="29">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37806" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="30">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37807" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="31">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37808" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="32">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37809" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="33">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37810" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="34">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37811" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="35">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37812" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="36">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37813" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="37">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37814" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="38">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37815" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+	<Simulator id="39">
+		<Name value="10.36.65.89" />
+		<DeviceIP value="10.36.65.89" />
+		<DevicePort value="37816" />
+		<UserName value="" />
+		<Password value="" />
+		<ChannelList>
+			<Channel id="0" name="通道0" />
+			<Channel id="1" name="通道1" />
+			<Channel id="2" name="通道2" />
+			<Channel id="3" name="通道3" />
+			<Channel id="4" name="通道4" />
+			<Channel id="5" name="通道5" />
+			<Channel id="6" name="通道6" />
+			<Channel id="7" name="通道7" />
+			<Channel id="8" name="通道8" />
+			<Channel id="9" name="通道9" />
+			<Channel id="10" name="通道10" />
+			<Channel id="11" name="通道11" />
+			<Channel id="12" name="通道12" />
+			<Channel id="13" name="通道13" />
+			<Channel id="14" name="通道14" />
+			<Channel id="15" name="通道15" />
+		</ChannelList>
+	</Simulator>
+</Simulators>

@@ -1,0 +1,12 @@
+aTuple=(1,2,3)
+bTuple=(4,5,6)
+aTuple=bTuple
+print aTuple
+#aTuple[0]=8
+
+aList=[1,2,3]
+bList=[4,5,6]
+aList=bList
+print aList
+aList[0]=8
+print aList

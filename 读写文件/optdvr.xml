@@ -1,0 +1,1002 @@
+<root>
+	<opt>0</opt>
+	<device domid="52900" devcode="dvr_10000" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10000" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10000" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10000-chn1" parentdomid="52900" parentdevcode="dvr_10000" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10000-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10001" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10001" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10001" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10001-chn1" parentdomid="52900" parentdevcode="dvr_10001" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10001-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10002" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10002" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10002" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10002-chn1" parentdomid="52900" parentdevcode="dvr_10002" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10002-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10003" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10003" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10003" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10003-chn1" parentdomid="52900" parentdevcode="dvr_10003" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10003-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10004" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10004" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10004" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10004-chn1" parentdomid="52900" parentdevcode="dvr_10004" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10004-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10005" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10005" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10005" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10005-chn1" parentdomid="52900" parentdevcode="dvr_10005" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10005-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10006" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10006" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10006" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10006-chn1" parentdomid="52900" parentdevcode="dvr_10006" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10006-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10007" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10007" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10007" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10007-chn1" parentdomid="52900" parentdevcode="dvr_10007" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10007-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10008" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10008" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10008" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10008-chn1" parentdomid="52900" parentdevcode="dvr_10008" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10008-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10009" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10009" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10009" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10009-chn1" parentdomid="52900" parentdevcode="dvr_10009" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10009-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10010" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10010" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10010" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10010-chn1" parentdomid="52900" parentdevcode="dvr_10010" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10010-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10011" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10011" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10011" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10011-chn1" parentdomid="52900" parentdevcode="dvr_10011" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10011-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10012" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10012" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10012" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10012-chn1" parentdomid="52900" parentdevcode="dvr_10012" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10012-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10013" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10013" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10013" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10013-chn1" parentdomid="52900" parentdevcode="dvr_10013" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10013-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10014" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10014" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10014" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10014-chn1" parentdomid="52900" parentdevcode="dvr_10014" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10014-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10015" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10015" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10015" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10015-chn1" parentdomid="52900" parentdevcode="dvr_10015" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10015-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10016" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10016" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10016" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10016-chn1" parentdomid="52900" parentdevcode="dvr_10016" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10016-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10017" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10017" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10017" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10017-chn1" parentdomid="52900" parentdevcode="dvr_10017" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10017-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10018" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10018" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10018" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10018-chn1" parentdomid="52900" parentdevcode="dvr_10018" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10018-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10019" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10019" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10019" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10019-chn1" parentdomid="52900" parentdevcode="dvr_10019" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10019-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10020" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10020" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10020" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10020-chn1" parentdomid="52900" parentdevcode="dvr_10020" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10020-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10021" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10021" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10021" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10021-chn1" parentdomid="52900" parentdevcode="dvr_10021" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10021-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10022" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10022" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10022" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10022-chn1" parentdomid="52900" parentdevcode="dvr_10022" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10022-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10023" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10023" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10023" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10023-chn1" parentdomid="52900" parentdevcode="dvr_10023" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10023-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10024" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10024" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10024" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10024-chn1" parentdomid="52900" parentdevcode="dvr_10024" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10024-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10025" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10025" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10025" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10025-chn1" parentdomid="52900" parentdevcode="dvr_10025" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10025-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10026" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10026" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10026" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10026-chn1" parentdomid="52900" parentdevcode="dvr_10026" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10026-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10027" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10027" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10027" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10027-chn1" parentdomid="52900" parentdevcode="dvr_10027" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10027-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10028" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10028" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10028" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10028-chn1" parentdomid="52900" parentdevcode="dvr_10028" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10028-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10029" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10029" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10029" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10029-chn1" parentdomid="52900" parentdevcode="dvr_10029" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10029-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10030" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10030" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10030" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10030-chn1" parentdomid="52900" parentdevcode="dvr_10030" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10030-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10031" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10031" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10031" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10031-chn1" parentdomid="52900" parentdevcode="dvr_10031" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10031-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10032" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10032" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10032" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10032-chn1" parentdomid="52900" parentdevcode="dvr_10032" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10032-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10033" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10033" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10033" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10033-chn1" parentdomid="52900" parentdevcode="dvr_10033" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10033-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10034" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10034" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10034" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10034-chn1" parentdomid="52900" parentdevcode="dvr_10034" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10034-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10035" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10035" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10035" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10035-chn1" parentdomid="52900" parentdevcode="dvr_10035" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10035-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10036" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10036" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10036" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10036-chn1" parentdomid="52900" parentdevcode="dvr_10036" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10036-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10037" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10037" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10037" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10037-chn1" parentdomid="52900" parentdevcode="dvr_10037" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10037-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10038" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10038" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10038" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10038-chn1" parentdomid="52900" parentdevcode="dvr_10038" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10038-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10039" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10039" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10039" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10039-chn1" parentdomid="52900" parentdevcode="dvr_10039" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10039-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10040" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10040" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10040" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10040-chn1" parentdomid="52900" parentdevcode="dvr_10040" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10040-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10041" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10041" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10041" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10041-chn1" parentdomid="52900" parentdevcode="dvr_10041" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10041-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10042" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10042" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10042" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10042-chn1" parentdomid="52900" parentdevcode="dvr_10042" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10042-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10043" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10043" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10043" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10043-chn1" parentdomid="52900" parentdevcode="dvr_10043" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10043-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10044" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10044" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10044" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10044-chn1" parentdomid="52900" parentdevcode="dvr_10044" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10044-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10045" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10045" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10045" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10045-chn1" parentdomid="52900" parentdevcode="dvr_10045" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10045-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10046" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10046" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10046" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10046-chn1" parentdomid="52900" parentdevcode="dvr_10046" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10046-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10047" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10047" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10047" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10047-chn1" parentdomid="52900" parentdevcode="dvr_10047" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10047-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10048" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10048" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10048" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10048-chn1" parentdomid="52900" parentdevcode="dvr_10048" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10048-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10049" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10049" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10049" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10049-chn1" parentdomid="52900" parentdevcode="dvr_10049" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10049-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10050" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10050" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10050" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10050-chn1" parentdomid="52900" parentdevcode="dvr_10050" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10050-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10051" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10051" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10051" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10051-chn1" parentdomid="52900" parentdevcode="dvr_10051" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10051-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10052" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10052" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10052" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10052-chn1" parentdomid="52900" parentdevcode="dvr_10052" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10052-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10053" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10053" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10053" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10053-chn1" parentdomid="52900" parentdevcode="dvr_10053" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10053-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10054" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10054" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10054" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10054-chn1" parentdomid="52900" parentdevcode="dvr_10054" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10054-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10055" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10055" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10055" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10055-chn1" parentdomid="52900" parentdevcode="dvr_10055" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10055-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10056" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10056" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10056" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10056-chn1" parentdomid="52900" parentdevcode="dvr_10056" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10056-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10057" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10057" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10057" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10057-chn1" parentdomid="52900" parentdevcode="dvr_10057" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10057-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10058" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10058" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10058" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10058-chn1" parentdomid="52900" parentdevcode="dvr_10058" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10058-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10059" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10059" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10059" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10059-chn1" parentdomid="52900" parentdevcode="dvr_10059" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10059-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10060" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10060" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10060" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10060-chn1" parentdomid="52900" parentdevcode="dvr_10060" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10060-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10061" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10061" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10061" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10061-chn1" parentdomid="52900" parentdevcode="dvr_10061" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10061-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10062" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10062" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10062" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10062-chn1" parentdomid="52900" parentdevcode="dvr_10062" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10062-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10063" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10063" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10063" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10063-chn1" parentdomid="52900" parentdevcode="dvr_10063" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10063-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10064" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10064" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10064" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10064-chn1" parentdomid="52900" parentdevcode="dvr_10064" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10064-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10065" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10065" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10065" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10065-chn1" parentdomid="52900" parentdevcode="dvr_10065" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10065-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10066" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10066" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10066" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10066-chn1" parentdomid="52900" parentdevcode="dvr_10066" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10066-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10067" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10067" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10067" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10067-chn1" parentdomid="52900" parentdevcode="dvr_10067" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10067-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10068" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10068" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10068" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10068-chn1" parentdomid="52900" parentdevcode="dvr_10068" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10068-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10069" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10069" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10069" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10069-chn1" parentdomid="52900" parentdevcode="dvr_10069" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10069-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10070" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10070" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10070" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10070-chn1" parentdomid="52900" parentdevcode="dvr_10070" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10070-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10071" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10071" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10071" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10071-chn1" parentdomid="52900" parentdevcode="dvr_10071" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10071-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10072" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10072" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10072" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10072-chn1" parentdomid="52900" parentdevcode="dvr_10072" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10072-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10073" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10073" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10073" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10073-chn1" parentdomid="52900" parentdevcode="dvr_10073" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10073-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10074" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10074" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10074" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10074-chn1" parentdomid="52900" parentdevcode="dvr_10074" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10074-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10075" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10075" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10075" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10075-chn1" parentdomid="52900" parentdevcode="dvr_10075" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10075-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10076" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10076" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10076" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10076-chn1" parentdomid="52900" parentdevcode="dvr_10076" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10076-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10077" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10077" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10077" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10077-chn1" parentdomid="52900" parentdevcode="dvr_10077" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10077-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10078" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10078" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10078" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10078-chn1" parentdomid="52900" parentdevcode="dvr_10078" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10078-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10079" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10079" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10079" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10079-chn1" parentdomid="52900" parentdevcode="dvr_10079" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10079-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10080" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10080" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10080" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10080-chn1" parentdomid="52900" parentdevcode="dvr_10080" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10080-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10081" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10081" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10081" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10081-chn1" parentdomid="52900" parentdevcode="dvr_10081" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10081-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10082" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10082" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10082" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10082-chn1" parentdomid="52900" parentdevcode="dvr_10082" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10082-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10083" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10083" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10083" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10083-chn1" parentdomid="52900" parentdevcode="dvr_10083" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10083-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10084" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10084" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10084" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10084-chn1" parentdomid="52900" parentdevcode="dvr_10084" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10084-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10085" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10085" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10085" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10085-chn1" parentdomid="52900" parentdevcode="dvr_10085" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10085-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10086" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10086" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10086" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10086-chn1" parentdomid="52900" parentdevcode="dvr_10086" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10086-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10087" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10087" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10087" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10087-chn1" parentdomid="52900" parentdevcode="dvr_10087" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10087-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10088" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10088" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10088" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10088-chn1" parentdomid="52900" parentdevcode="dvr_10088" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10088-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10089" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10089" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10089" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10089-chn1" parentdomid="52900" parentdevcode="dvr_10089" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10089-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10090" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10090" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10090" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10090-chn1" parentdomid="52900" parentdevcode="dvr_10090" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10090-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10091" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10091" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10091" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10091-chn1" parentdomid="52900" parentdevcode="dvr_10091" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10091-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10092" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10092" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10092" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10092-chn1" parentdomid="52900" parentdevcode="dvr_10092" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10092-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10093" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10093" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10093" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10093-chn1" parentdomid="52900" parentdevcode="dvr_10093" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10093-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10094" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10094" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10094" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10094-chn1" parentdomid="52900" parentdevcode="dvr_10094" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10094-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10095" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10095" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10095" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10095-chn1" parentdomid="52900" parentdevcode="dvr_10095" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10095-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10096" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10096" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10096" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10096-chn1" parentdomid="52900" parentdevcode="dvr_10096" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10096-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10097" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10097" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10097" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10097-chn1" parentdomid="52900" parentdevcode="dvr_10097" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10097-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10098" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10098" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10098" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10098-chn1" parentdomid="52900" parentdevcode="dvr_10098" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10098-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10099" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10099" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10099" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10099-chn1" parentdomid="52900" parentdevcode="dvr_10099" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10099-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10100" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10100" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10100" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10100-chn1" parentdomid="52900" parentdevcode="dvr_10100" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10100-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10101" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10101" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10101" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10101-chn1" parentdomid="52900" parentdevcode="dvr_10101" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10101-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10102" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10102" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10102" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10102-chn1" parentdomid="52900" parentdevcode="dvr_10102" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10102-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10103" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10103" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10103" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10103-chn1" parentdomid="52900" parentdevcode="dvr_10103" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10103-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10104" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10104" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10104" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10104-chn1" parentdomid="52900" parentdevcode="dvr_10104" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10104-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10105" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10105" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10105" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10105-chn1" parentdomid="52900" parentdevcode="dvr_10105" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10105-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10106" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10106" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10106" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10106-chn1" parentdomid="52900" parentdevcode="dvr_10106" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10106-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10107" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10107" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10107" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10107-chn1" parentdomid="52900" parentdevcode="dvr_10107" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10107-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10108" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10108" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10108" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10108-chn1" parentdomid="52900" parentdevcode="dvr_10108" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10108-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10109" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10109" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10109" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10109-chn1" parentdomid="52900" parentdevcode="dvr_10109" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10109-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10110" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10110" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10110" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10110-chn1" parentdomid="52900" parentdevcode="dvr_10110" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10110-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10111" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10111" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10111" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10111-chn1" parentdomid="52900" parentdevcode="dvr_10111" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10111-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10112" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10112" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10112" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10112-chn1" parentdomid="52900" parentdevcode="dvr_10112" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10112-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10113" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10113" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10113" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10113-chn1" parentdomid="52900" parentdevcode="dvr_10113" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10113-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10114" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10114" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10114" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10114-chn1" parentdomid="52900" parentdevcode="dvr_10114" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10114-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10115" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10115" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10115" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10115-chn1" parentdomid="52900" parentdevcode="dvr_10115" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10115-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10116" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10116" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10116" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10116-chn1" parentdomid="52900" parentdevcode="dvr_10116" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10116-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10117" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10117" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10117" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10117-chn1" parentdomid="52900" parentdevcode="dvr_10117" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10117-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10118" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10118" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10118" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10118-chn1" parentdomid="52900" parentdevcode="dvr_10118" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10118-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10119" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10119" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10119" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10119-chn1" parentdomid="52900" parentdevcode="dvr_10119" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10119-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10120" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10120" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10120" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10120-chn1" parentdomid="52900" parentdevcode="dvr_10120" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10120-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10121" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10121" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10121" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10121-chn1" parentdomid="52900" parentdevcode="dvr_10121" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10121-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10122" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10122" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10122" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10122-chn1" parentdomid="52900" parentdevcode="dvr_10122" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10122-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10123" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10123" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10123" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10123-chn1" parentdomid="52900" parentdevcode="dvr_10123" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10123-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10124" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10124" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10124" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10124-chn1" parentdomid="52900" parentdevcode="dvr_10124" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10124-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10125" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10125" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10125" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10125-chn1" parentdomid="52900" parentdevcode="dvr_10125" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10125-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10126" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10126" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10126" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10126-chn1" parentdomid="52900" parentdevcode="dvr_10126" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10126-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10127" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10127" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10127" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10127-chn1" parentdomid="52900" parentdevcode="dvr_10127" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10127-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10128" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10128" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10128" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10128-chn1" parentdomid="52900" parentdevcode="dvr_10128" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10128-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10129" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10129" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10129" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10129-chn1" parentdomid="52900" parentdevcode="dvr_10129" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10129-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10130" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10130" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10130" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10130-chn1" parentdomid="52900" parentdevcode="dvr_10130" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10130-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10131" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10131" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10131" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10131-chn1" parentdomid="52900" parentdevcode="dvr_10131" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10131-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10132" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10132" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10132" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10132-chn1" parentdomid="52900" parentdevcode="dvr_10132" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10132-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10133" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10133" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10133" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10133-chn1" parentdomid="52900" parentdevcode="dvr_10133" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10133-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10134" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10134" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10134" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10134-chn1" parentdomid="52900" parentdevcode="dvr_10134" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10134-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10135" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10135" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10135" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10135-chn1" parentdomid="52900" parentdevcode="dvr_10135" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10135-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10136" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10136" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10136" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10136-chn1" parentdomid="52900" parentdevcode="dvr_10136" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10136-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10137" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10137" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10137" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10137-chn1" parentdomid="52900" parentdevcode="dvr_10137" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10137-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10138" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10138" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10138" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10138-chn1" parentdomid="52900" parentdevcode="dvr_10138" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10138-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10139" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10139" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10139" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10139-chn1" parentdomid="52900" parentdevcode="dvr_10139" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10139-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10140" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10140" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10140" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10140-chn1" parentdomid="52900" parentdevcode="dvr_10140" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10140-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10141" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10141" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10141" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10141-chn1" parentdomid="52900" parentdevcode="dvr_10141" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10141-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10142" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10142" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10142" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10142-chn1" parentdomid="52900" parentdevcode="dvr_10142" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10142-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10143" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10143" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10143" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10143-chn1" parentdomid="52900" parentdevcode="dvr_10143" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10143-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10144" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10144" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10144" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10144-chn1" parentdomid="52900" parentdevcode="dvr_10144" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10144-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10145" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10145" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10145" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10145-chn1" parentdomid="52900" parentdevcode="dvr_10145" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10145-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10146" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10146" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10146" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10146-chn1" parentdomid="52900" parentdevcode="dvr_10146" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10146-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10147" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10147" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10147" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10147-chn1" parentdomid="52900" parentdevcode="dvr_10147" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10147-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10148" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10148" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10148" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10148-chn1" parentdomid="52900" parentdevcode="dvr_10148" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10148-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10149" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10149" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10149" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10149-chn1" parentdomid="52900" parentdevcode="dvr_10149" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10149-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10150" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10150" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10150" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10150-chn1" parentdomid="52900" parentdevcode="dvr_10150" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10150-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10151" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10151" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10151" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10151-chn1" parentdomid="52900" parentdevcode="dvr_10151" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10151-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10152" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10152" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10152" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10152-chn1" parentdomid="52900" parentdevcode="dvr_10152" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10152-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10153" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10153" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10153" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10153-chn1" parentdomid="52900" parentdevcode="dvr_10153" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10153-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10154" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10154" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10154" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10154-chn1" parentdomid="52900" parentdevcode="dvr_10154" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10154-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10155" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10155" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10155" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10155-chn1" parentdomid="52900" parentdevcode="dvr_10155" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10155-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10156" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10156" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10156" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10156-chn1" parentdomid="52900" parentdevcode="dvr_10156" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10156-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10157" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10157" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10157" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10157-chn1" parentdomid="52900" parentdevcode="dvr_10157" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10157-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10158" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10158" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10158" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10158-chn1" parentdomid="52900" parentdevcode="dvr_10158" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10158-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10159" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10159" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10159" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10159-chn1" parentdomid="52900" parentdevcode="dvr_10159" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10159-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10160" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10160" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10160" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10160-chn1" parentdomid="52900" parentdevcode="dvr_10160" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10160-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10161" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10161" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10161" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10161-chn1" parentdomid="52900" parentdevcode="dvr_10161" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10161-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10162" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10162" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10162" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10162-chn1" parentdomid="52900" parentdevcode="dvr_10162" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10162-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10163" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10163" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10163" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10163-chn1" parentdomid="52900" parentdevcode="dvr_10163" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10163-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10164" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10164" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10164" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10164-chn1" parentdomid="52900" parentdevcode="dvr_10164" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10164-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10165" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10165" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10165" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10165-chn1" parentdomid="52900" parentdevcode="dvr_10165" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10165-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10166" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10166" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10166" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10166-chn1" parentdomid="52900" parentdevcode="dvr_10166" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10166-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10167" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10167" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10167" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10167-chn1" parentdomid="52900" parentdevcode="dvr_10167" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10167-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10168" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10168" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10168" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10168-chn1" parentdomid="52900" parentdevcode="dvr_10168" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10168-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10169" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10169" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10169" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10169-chn1" parentdomid="52900" parentdevcode="dvr_10169" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10169-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10170" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10170" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10170" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10170-chn1" parentdomid="52900" parentdevcode="dvr_10170" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10170-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10171" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10171" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10171" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10171-chn1" parentdomid="52900" parentdevcode="dvr_10171" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10171-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10172" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10172" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10172" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10172-chn1" parentdomid="52900" parentdevcode="dvr_10172" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10172-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10173" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10173" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10173" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10173-chn1" parentdomid="52900" parentdevcode="dvr_10173" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10173-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10174" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10174" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10174" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10174-chn1" parentdomid="52900" parentdevcode="dvr_10174" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10174-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10175" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10175" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10175" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10175-chn1" parentdomid="52900" parentdevcode="dvr_10175" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10175-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10176" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10176" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10176" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10176-chn1" parentdomid="52900" parentdevcode="dvr_10176" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10176-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10177" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10177" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10177" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10177-chn1" parentdomid="52900" parentdevcode="dvr_10177" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10177-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10178" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10178" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10178" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10178-chn1" parentdomid="52900" parentdevcode="dvr_10178" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10178-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10179" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10179" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10179" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10179-chn1" parentdomid="52900" parentdevcode="dvr_10179" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10179-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10180" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10180" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10180" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10180-chn1" parentdomid="52900" parentdevcode="dvr_10180" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10180-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10181" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10181" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10181" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10181-chn1" parentdomid="52900" parentdevcode="dvr_10181" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10181-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10182" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10182" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10182" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10182-chn1" parentdomid="52900" parentdevcode="dvr_10182" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10182-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10183" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10183" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10183" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10183-chn1" parentdomid="52900" parentdevcode="dvr_10183" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10183-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10184" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10184" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10184" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10184-chn1" parentdomid="52900" parentdevcode="dvr_10184" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10184-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10185" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10185" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10185" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10185-chn1" parentdomid="52900" parentdevcode="dvr_10185" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10185-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10186" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10186" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10186" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10186-chn1" parentdomid="52900" parentdevcode="dvr_10186" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10186-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10187" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10187" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10187" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10187-chn1" parentdomid="52900" parentdevcode="dvr_10187" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10187-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10188" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10188" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10188" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10188-chn1" parentdomid="52900" parentdevcode="dvr_10188" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10188-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10189" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10189" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10189" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10189-chn1" parentdomid="52900" parentdevcode="dvr_10189" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10189-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10190" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10190" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10190" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10190-chn1" parentdomid="52900" parentdevcode="dvr_10190" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10190-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10191" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10191" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10191" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10191-chn1" parentdomid="52900" parentdevcode="dvr_10191" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10191-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10192" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10192" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10192" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10192-chn1" parentdomid="52900" parentdevcode="dvr_10192" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10192-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10193" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10193" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10193" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10193-chn1" parentdomid="52900" parentdevcode="dvr_10193" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10193-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10194" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10194" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10194" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10194-chn1" parentdomid="52900" parentdevcode="dvr_10194" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10194-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10195" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10195" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10195" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10195-chn1" parentdomid="52900" parentdevcode="dvr_10195" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10195-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10196" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10196" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10196" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10196-chn1" parentdomid="52900" parentdevcode="dvr_10196" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10196-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10197" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10197" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10197" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10197-chn1" parentdomid="52900" parentdevcode="dvr_10197" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10197-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10198" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10198" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10198" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10198-chn1" parentdomid="52900" parentdevcode="dvr_10198" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10198-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10199" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10199" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10199" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10199-chn1" parentdomid="52900" parentdevcode="dvr_10199" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10199-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10200" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10200" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10200" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10200-chn1" parentdomid="52900" parentdevcode="dvr_10200" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10200-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10201" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10201" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10201" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10201-chn1" parentdomid="52900" parentdevcode="dvr_10201" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10201-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10202" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10202" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10202" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10202-chn1" parentdomid="52900" parentdevcode="dvr_10202" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10202-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10203" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10203" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10203" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10203-chn1" parentdomid="52900" parentdevcode="dvr_10203" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10203-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10204" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10204" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10204" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10204-chn1" parentdomid="52900" parentdevcode="dvr_10204" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10204-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10205" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10205" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10205" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10205-chn1" parentdomid="52900" parentdevcode="dvr_10205" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10205-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10206" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10206" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10206" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10206-chn1" parentdomid="52900" parentdevcode="dvr_10206" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10206-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10207" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10207" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10207" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10207-chn1" parentdomid="52900" parentdevcode="dvr_10207" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10207-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10208" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10208" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10208" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10208-chn1" parentdomid="52900" parentdevcode="dvr_10208" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10208-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10209" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10209" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10209" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10209-chn1" parentdomid="52900" parentdevcode="dvr_10209" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10209-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10210" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10210" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10210" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10210-chn1" parentdomid="52900" parentdevcode="dvr_10210" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10210-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10211" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10211" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10211" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10211-chn1" parentdomid="52900" parentdevcode="dvr_10211" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10211-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10212" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10212" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10212" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10212-chn1" parentdomid="52900" parentdevcode="dvr_10212" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10212-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10213" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10213" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10213" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10213-chn1" parentdomid="52900" parentdevcode="dvr_10213" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10213-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10214" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10214" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10214" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10214-chn1" parentdomid="52900" parentdevcode="dvr_10214" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10214-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10215" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10215" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10215" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10215-chn1" parentdomid="52900" parentdevcode="dvr_10215" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10215-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10216" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10216" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10216" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10216-chn1" parentdomid="52900" parentdevcode="dvr_10216" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10216-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10217" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10217" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10217" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10217-chn1" parentdomid="52900" parentdevcode="dvr_10217" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10217-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10218" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10218" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10218" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10218-chn1" parentdomid="52900" parentdevcode="dvr_10218" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10218-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10219" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10219" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10219" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10219-chn1" parentdomid="52900" parentdevcode="dvr_10219" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10219-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10220" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10220" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10220" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10220-chn1" parentdomid="52900" parentdevcode="dvr_10220" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10220-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10221" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10221" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10221" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10221-chn1" parentdomid="52900" parentdevcode="dvr_10221" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10221-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10222" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10222" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10222" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10222-chn1" parentdomid="52900" parentdevcode="dvr_10222" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10222-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10223" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10223" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10223" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10223-chn1" parentdomid="52900" parentdevcode="dvr_10223" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10223-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10224" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10224" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10224" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10224-chn1" parentdomid="52900" parentdevcode="dvr_10224" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10224-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10225" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10225" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10225" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10225-chn1" parentdomid="52900" parentdevcode="dvr_10225" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10225-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10226" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10226" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10226" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10226-chn1" parentdomid="52900" parentdevcode="dvr_10226" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10226-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10227" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10227" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10227" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10227-chn1" parentdomid="52900" parentdevcode="dvr_10227" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10227-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10228" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10228" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10228" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10228-chn1" parentdomid="52900" parentdevcode="dvr_10228" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10228-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10229" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10229" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10229" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10229-chn1" parentdomid="52900" parentdevcode="dvr_10229" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10229-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10230" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10230" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10230" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10230-chn1" parentdomid="52900" parentdevcode="dvr_10230" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10230-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10231" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10231" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10231" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10231-chn1" parentdomid="52900" parentdevcode="dvr_10231" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10231-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10232" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10232" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10232" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10232-chn1" parentdomid="52900" parentdevcode="dvr_10232" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10232-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10233" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10233" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10233" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10233-chn1" parentdomid="52900" parentdevcode="dvr_10233" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10233-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10234" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10234" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10234" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10234-chn1" parentdomid="52900" parentdevcode="dvr_10234" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10234-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10235" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10235" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10235" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10235-chn1" parentdomid="52900" parentdevcode="dvr_10235" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10235-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10236" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10236" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10236" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10236-chn1" parentdomid="52900" parentdevcode="dvr_10236" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10236-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10237" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10237" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10237" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10237-chn1" parentdomid="52900" parentdevcode="dvr_10237" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10237-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10238" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10238" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10238" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10238-chn1" parentdomid="52900" parentdevcode="dvr_10238" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10238-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10239" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10239" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10239" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10239-chn1" parentdomid="52900" parentdevcode="dvr_10239" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10239-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10240" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10240" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10240" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10240-chn1" parentdomid="52900" parentdevcode="dvr_10240" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10240-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10241" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10241" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10241" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10241-chn1" parentdomid="52900" parentdevcode="dvr_10241" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10241-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10242" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10242" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10242" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10242-chn1" parentdomid="52900" parentdevcode="dvr_10242" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10242-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10243" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10243" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10243" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10243-chn1" parentdomid="52900" parentdevcode="dvr_10243" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10243-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10244" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10244" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10244" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10244-chn1" parentdomid="52900" parentdevcode="dvr_10244" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10244-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10245" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10245" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10245" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10245-chn1" parentdomid="52900" parentdevcode="dvr_10245" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10245-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10246" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10246" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10246" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10246-chn1" parentdomid="52900" parentdevcode="dvr_10246" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10246-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10247" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10247" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10247" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10247-chn1" parentdomid="52900" parentdevcode="dvr_10247" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10247-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10248" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10248" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10248" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10248-chn1" parentdomid="52900" parentdevcode="dvr_10248" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10248-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+
+	<device domid="52900" devcode="dvr_10249" parentdomid="" parentdevcode="" orgdomid="52900" orgcode="1" devpath="" orgpath="" devtype="1" manufid="1" title="dvr_10249" status="" devposidx="" updatetime="" loginname="admin" loginpwd="admin" ipaddr="10.36.65.80" portdev="10249" streamtype="" contrator="" locationid="" installspot="" installtime="" maintainer="" phone="" model="" visible="" longitude="" latitude="" desc="" >
+		<channel domid="52900" devcode="dvr_10249-chn1" parentdomid="52900" parentdevcode="dvr_10249" orgdomid="" orgcode="" devpath="" orgpath="" devtype="21" manufid="1" title="dvr_10249-chn1" status="" devposidx="" updatetime="" chnidx="" accesory="" />
+	</device>
+</root>
